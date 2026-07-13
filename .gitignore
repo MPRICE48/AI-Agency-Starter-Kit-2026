@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+jspm_packages/
+web_modules/
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and debug
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS metadata
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Build and IDEs
+dist/
+build/
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Credentials, secrets, and local environment configs
+.env
+.env.*
+*credentials*
+secret.json
+credentials.json
+research-notes/
