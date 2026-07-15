@@ -71,6 +71,6 @@ In a lean team (Founder + Contractor + Delivery Lead), meetings are an operation
 ## 5. Maximizing Value per Human Hour (VPHH)
 
 Track this primary agency health metric:
-$$\text{VPHH} = \frac{\text{Total Monthly Retainer Revenue}}{\text{Total Human Hours Logged on Delivery \& Support}}$$
+$$\text{VPHH} = \frac{\text{Total Monthly Retainer Revenue}}{\text{Total Human Hours Logged on Delivery and Support}}$$
 
 Your scaling goal is to steadily increase this ratio by substituting human hours with reusable workflow assets and internal AI agents. If VPHH declines as you add clients, it indicates your builds are too custom or your monitoring routines are too manual. Re-evaluate your productization boundaries immediately.

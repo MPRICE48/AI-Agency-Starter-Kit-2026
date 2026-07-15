@@ -47,17 +47,17 @@ A small senior team (typically 3–7 humans) that designs and governs significan
 ```mermaid
 flowchart TD
     subgraph Leadership["Leadership & Strategy"]
-        CEO[Founder / CEO<br/>Vision • Sales • Key Accounts<br/>Overall P&L • Security Owner]
+        CEO["Founder / CEO<br/>Vision • Sales • Key Accounts<br/>Overall P&L • Security Owner"]
     end
 
     subgraph Delivery["Delivery & Technical Excellence"]
-        DL[Delivery Lead / Head of Automation<br/>Technical Architecture • QA Oversight<br/>Complex Builds • Mentorship]
-        AE[Automation Engineers / Workflow Specialists<br/>Build • Integrate • Test • Monitor<br/>(2–4 people • mix of FT & contract)]
+        DL["Delivery Lead / Head of Automation<br/>Technical Architecture • QA Oversight<br/>Complex Builds • Mentorship"]
+        AE["Automation Engineers / Workflow Specialists<br/>Build • Integrate • Test • Monitor<br/>(2–4 people • mix of FT & contract)"]
     end
 
     subgraph ClientSuccess["Client Success & Operations"]
-        AM[Account Manager / Client Success<br/>Onboarding • Reporting • Retention<br/>Upsells • Feedback Loop]
-        OPS[Operations Coordinator<br/>(Part-time or heavily AI-augmented)<br/>Internal Processes • Billing Support • Admin]
+        AM["Account Manager / Client Success<br/>Onboarding • Reporting • Retention<br/>Upsells • Feedback Loop"]
+        OPS["Operations Coordinator<br/>(Part-time or heavily AI-augmented)<br/>Internal Processes • Billing Support • Admin"]
     end
 
     CEO --> DL
