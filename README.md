@@ -91,21 +91,21 @@ This kit teaches the model that actually works in 2026.
 
 ```mermaid
 timeline
-    title "AI Agency Starter Kit 2026 — Your Launch Roadmap"
-    section "Days 1–7: Foundation & Validation"
-        "Read 01_Foundation & 02_Business_Planning" : "Understand model + validate niche"
-        "Complete 20–50 conversations" : "ICP research + pain-point interviews"
-        "Set up basic legal basics + simple website" : "MSA/SOW templates + one-page site"
-    section "Days 8–30: Customize & Build Core"
-        "Customize 03_Services_Pricing" : "3–4 tier catalog for your niche"
-        "Setup Tech Stack (04)" : "n8n instance + import 1–2 example workflows"
-        "Draft SOPs (05) + Sales Assets (06)" : "Discovery scripts, lead gen sequences"
-        "Build 1–2 portfolio/pilot pieces" : "Real (small) deliverables"
-    section "Days 31–90: Launch, Sell & Retain"
-        "Launch first pilot/audit offer" : "Use sales frameworks"
-        "Deliver using SOPs & QA protocols" : "Secure first retainer"
-        "Track metrics rigorously" : "Pipeline, win rate, margins, client ROI, retention"
-        "Iterate & scale deliberately" : "Use 08_Team & 09_Resources"
+    title AI Agency Starter Kit 2026 — Your Launch Roadmap
+    section Days 1–7: Foundation & Validation
+        Read 01_Foundation & 02_Business_Planning : Understand model + validate niche
+        Complete 20–50 conversations : ICP research + pain-point interviews
+        Set up basic legal basics + simple website : MSA/SOW templates + one-page site
+    section Days 8–30: Customize & Build Core
+        Customize 03_Services_Pricing : 3–4 tier catalog for your niche
+        Setup Tech Stack (04) : n8n instance + import 1–2 example workflows
+        Draft SOPs (05) + Sales Assets (06) : Discovery scripts, lead gen sequences
+        Build 1–2 portfolio/pilot pieces : Real (small) deliverables
+    section Days 31–90: Launch, Sell & Retain
+        Launch first pilot/audit offer : Use sales frameworks
+        Deliver using SOPs & QA protocols : Secure first retainer
+        Track metrics rigorously : Pipeline, win rate, margins, client ROI, retention
+        Iterate & scale deliberately : Use 08_Team & 09_Resources
 ```
 
 *Track these metrics from day one: Pipeline value, win rate, project margins (net of API/tool costs), client ROI delivered, retention/churn rate.*
